@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casey060492/Node.JS-Learning.git"
+  },
+  "author": "",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^3.2.4",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "devDependencies": {},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casey060492/Node.JS-Learning/issues"
+  },
+  "homepage": "https://github.com/casey060492/Node.JS-Learning#readme"
+}
